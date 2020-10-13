@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "trrcommx"
+    }
+  },
+  "defaultProject": "trrcommx",
+  "cli": {
+    "analytics": "9461a225-425b-40a9-ab6a-9a16cdd55f68"
+  }
 }
